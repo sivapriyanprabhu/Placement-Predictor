@@ -1,2 +1,18 @@
-# Placement-Predictor
-AI-based Student Placement Predictor that uses machine learning to predict placement chances based on CGPA, internships, and skills.
+# AI Student Placement Predictor
+
+This project predicts student placement chances using Machine Learning.
+
+## Features
+- Predict placement chances
+- Simple user interface
+- Real-time results
+
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- Streamlit
+
+## How to Run
+pip install pandas scikit-learn streamlit
+streamlit run app.py
